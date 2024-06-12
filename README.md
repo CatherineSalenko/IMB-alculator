@@ -1,2 +1,2 @@
-# IMB-alculator
+# IMBCalculator
 body mass index
